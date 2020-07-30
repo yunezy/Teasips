@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061649684207",
+    "firebase_url": "https://teasips.firebaseio.com",
+    "project_id": "teasips",
+    "storage_bucket": "teasips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061649684207:android:f40772b6c55c2727cd2d1a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061649684207-ohasbk90g42q5bbdmb3tku11p067pva3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSBlnZOISMVDFxA-gkJgiat8Li0MElr3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061649684207-ohasbk90g42q5bbdmb3tku11p067pva3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
